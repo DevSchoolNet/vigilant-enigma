@@ -84,7 +84,6 @@
 	<s:String x:Key="/Default/GlobalFilterSettingsManager/AttributeFilterXml/@EntryValue">&lt;data&gt;&lt;AttributeFilter ClassMask="System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverageAttribute" IsEnabled="True" /&gt;&lt;/data&gt;</s:String>
 	<s:Int64 x:Key="/Default/Housekeeping/ChangesView/HorizontalSplitter/@EntryValue">100</s:Int64>
 	<s:String x:Key="/Default/Housekeeping/FeedbackReport/SelectedUserIdentificator/@EntryValue">anonymous</s:String>
-	<s:String x:Key="/Default/Housekeeping/FeedbackReport/UserIdentificatorString/@EntryValue">youtrack@bdaniel7@zf+WqFvYJkUFO2mqkE8+5g==#user_name@@#anonymous@user</s:String>
 	<s:Boolean x:Key="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/OptionsDialog/Position/@EntryValue">[97.5,38.5](1447,935)</s:String>
 	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/OptionsDialog/SelectedPageId/@EntryValue">JetBrains.TeamCity.DotCoverIntegration</s:String>
