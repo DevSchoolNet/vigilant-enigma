@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/cs1/bin/Debug
+/cs1/obj/Debug
+/cs1/_ReSharper.Caches/ReSharperPlatformVs145.cs1
+/cs2/bin/Debug
+/cs2/obj/Debug
+/cs3/bin/Debug
+/cs3/obj/Debug
