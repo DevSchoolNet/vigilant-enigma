@@ -1,3 +1,3 @@
 # vigilant-enigma
 
-   The primary repository for ING Dev{School} .NET programme.
+   The primary repository for ING {Dev}School .NET programme.
