@@ -1,0 +1,8 @@
+Common Language Runtime (CLR)
+https://msdn.microsoft.com/en-us/library/8bs2ecf4(v=vs.110).aspx
+
+.NET Framework Conceptual Overview
+https://msdn.microsoft.com/en-us/library/zw4w595w(v=vs.100).aspx
+
+Managed Execution Process
+https://msdn.microsoft.com/en-us/library/k5532s8a(v=vs.110).aspx
