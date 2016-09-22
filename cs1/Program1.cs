@@ -37,6 +37,15 @@ namespace cs1
 	{
 		public ArrayList Children { set; get; }
 
+		private string name;
+
+		public string Name
+		{
+			get { return name; }
+
+			set { name = value; }
+		}
+
 		public Human(Gender Gender)
 			: base(Gender)
 		{

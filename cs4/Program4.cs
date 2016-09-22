@@ -7,13 +7,21 @@ using System.Threading.Tasks;
 namespace cs4
 {
 	// Late binding
-	// Named argument
-	// Optional parameter
+	// Named argument [d]
+	// Optional parameter [d]
 	
 	class Program4
 	{
 		static void Main( string[] args )
 		{
+			DoSomething("Costel", 32, 4500);
+			DoSomething( Salary: 3500, Age: 32, Name: "Costel" );
+		}
+
+		
+		public static void DoSomething(string Name, int Age, decimal Salary = 3500  )
+		{
+			
 		}
 	}
 

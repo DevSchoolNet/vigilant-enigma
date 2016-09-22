@@ -5,14 +5,14 @@ using System.Text;
 
 namespace cs3
 {
-	// Lambda expressions
-	// Extension method
+	// Lambda expressions [d]
+	// Extension method [d]
 	// Expression tree
-	// Anonymous type
+	// Anonymous type [d]
 	// LINQ
-	// Implicit type (var)
-	// Auto properties
-	
+	// Implicit type (var) [d]
+	// Auto properties [d]
+
 	class Program3
 	{
 		static void Main( string[] args )

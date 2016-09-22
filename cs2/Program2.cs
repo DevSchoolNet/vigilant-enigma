@@ -5,10 +5,10 @@ using System.Collections;
 
 namespace cs2
 {
-	// Generics
-	// Anonymous method
-	// Nullable type
-	// Partial class
+	// Generics [d]
+	// Anonymous method [d]
+	// Nullable type [d]
+	// Partial class [d]
 	public partial class Program2
 	{
 		private static int? missingInt;
@@ -49,4 +49,25 @@ namespace cs2
 		{
 		}
 	}
+
+	public class Transaction
+	{
+
+		public int Id { get; set; }
+
+		public double Amount { get; set; }
+
+		public string PayerAccount { get; set; }
+
+		public string BeneficiaryAccount { get; set; }
+
+	}
+
+	public class CancelTransaction : Transaction
+	{
+		public bool CanBeCanceled { get; set; }
+
+		public string CancelReason { get; set; }
+	}
+
 }
